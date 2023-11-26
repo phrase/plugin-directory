@@ -283,6 +283,8 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 
 ## Sorted by last update (newest on top)
 
+- [App Asset Export](https://github.com/work4blue/sketch-app-asset-export), by Andrew Huang: Sketch3 plugin, One key export Android/iOS App icons.
+- [Sketch Guides](https://github.com/luvmex/sketch-guides), by Celyn Xie: Add Guides to edges and midpoints at once.
 - [Crowdin for Sketch](https://github.com/crowdin/sketch-crowdin), by Crowdin: Localize the UI before programming starts. Translate and preview any design with ease
 - [Outsystems ui Plugin](https://github.com/HiInteractive/OutSystemsUIPlugin), by Pedro Oliveira:
 - [Frontify Plugin](https://github.com/Frontify/sketch), by Frontify: Connecting your brand and design worlds
@@ -296,7 +298,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Brandfolder](https://github.com/brandfolder/sketch-plugin-brandfolder), by brandfolder: Easily use your digital assets from Brandfolder right within your favorite platform for digital design!
 - [File Cleaner](https://github.com/monzo/file-cleaner), by Monzo: Keep your Sketch files immaculately clean and in order.
 - [Artboard Manager](https://github.com/bomberstudios/artboard-manager#readme), by Ale Muñoz: Because moving artboards manually is *so* 2016.
-- [App Asset Export](https://github.com/work4blue/sketch-app-asset-export), by Andrew Huang: Sketch3 plugin, One key export Android/iOS App icons.
 - [Segmented Circle](https://github.com/design4use/gb-sketch-segmentcircle), by German Bauer: Create precise segmented circular graphics for diagrams, instrumentation and analytics.
 - [Paste to Fill](https://github.com/tgfjt/sketch-paste-to-fill#readme), by tgfjt: Paste your image from clipboard, to fill layer.
 - [Stark](http://www.getstark.co), by Stark Lab, Inc.: Ensure your design is accessible and high contrast for every type of color blindness.
@@ -333,7 +334,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Symbol Legend](https://github.com/wix-incubator/sketch-symbol-legend), by WIX Incubator: Legend for your Sketch Symbols.
 - [Data From Clipboard](https://github.com/Saint-loup/data-from-clipboard), by Saint-loup: A DataSupplier plugin
 - [Appalette](https://github.com/carlosarturo28/appalette), by Carlos Navarro: A Sketch plugin that let you find the color palette of (almost) any App.
-- [Sketch Guides](https://github.com/luvmex/sketch-guides), by Celyn Xie: Add Guides to edges and midpoints at once.
 - [Units](https://github.com/dploeger/sketch-plugin-units), by Dennis Ploeger: A Sketch plugin for working with print units (inch, cm, mm) in Sketch's pixel world.
 - [Android Res Export](https://github.com/ashung/android_res_export), by Ashung Hung: Export Android resouces in Sketch, include PNG assets, app icon, nine-patch image and vector drawable.
 - [SymbolNameAutocomplete](https://github.com/griffin-stewie/symbolnameautocomplete), by griffin-stewie: This plugin gives you autocompletion of symbol names when creating a symbol.
