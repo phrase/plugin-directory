@@ -28,7 +28,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [GxDesignOps](https://github.com/genexuslabs/sketchdesignops), by Gastón Milano: Sketch Plugin For GeneXus internal use
 - [helpweb](https://github.com/mybenmao/sketch-helpweb), by caorukang: web html css image
 - [imgcook](https://www.imgcook.com), by Taobao FED: A cook who can transform design to code
-- [Import SVG as Artboards](https://github.com/mathieudutour/import-svg-as-artboard), by mathieudutour: Import SVG files as Artboards.
 - [lippy](https://github.com/abynim/lippy), by Aby Nimbalkar: An interactive lorem ipsum generator plugin for Sketch
 - [Looper](https://github.com/sureskumar/looper), by Sures Kumar: Looper helps automate duplication of groups and layers. One can control properties like Rotate, Scale and Opacity while duplicating. This powerful combination enables artists and designers to create interesting geometric and organic patterns.
 - [Merge Duplicate Symbols](https://github.com/oodesign/merge-duplicate-symbols), by oodesign: Merge symbols or styles, replacing all instances and keeping overrides.
@@ -58,12 +57,10 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Play](http://sureskumar.com/sketchplay/), by Sures Kumar: Create game plays directly from Sketch app.
 - [Sketch Select](https://github.com/canisminor1990/sketch-select), by Canis Minor: Make it much more convenient to select layers with similar attributes.
 - [Sketch Style Master](https://github.com/aparajita/sketch-style-master), by Aparajita Fishman: Sketch plugin for renaming shared styles
-- [Sketch Wakatime](https://github.com/wakatime/sketch-wakatime), by WakaTime: A Plugin to update your WakaTime stats automatically from Sketch.
 - [Sketch Tailwind](https://github.com/jan-dh/sketch-tailwind), by Jan D'Hollander: Export your design to a theme-file you can use in your Tailwind Css config.
 - [Stark](http://www.getstark.co), by Stark Lab, Inc.: Ensure your design is accessible and high contrast for every type of color blindness.
 - [Super Shapes](https://github.com/sureskumar/super-shapes), by Sures Kumar: Generate complex organic super-shapes using super formula.
 - [Symbol Finder](https://github.com/afifkhaidir/symbol-finder), by afifkhaidir: Finder-like interface for browsing and inserting local symbols in Sketch
-- [Symbol Instance Locator](https://github.com/sonburn/symbol-instance-locator), by Jason Burns: Locate all instances of a selected symbol or instance.
 - [Turkish Data](https://github.com/ozgurgunes/Sketch-Turkish-Data), by Özgür Güneş: Turkish data supplier plugin.
 - [uiLogos](https://github.com/realvjy/uiLogos-sketch-plugin), by vijay verma: Insert professionally designed dummy logos of companies.
 - [WtDesign](https://github.com/wantedly/sketch-wt-design), by Yoshinori Kawasaki: Sketch plugin for Wantedly Design System
@@ -131,6 +128,3 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [File Cleaner](https://github.com/monzo/file-cleaner), by Monzo: Keep your Sketch files immaculately clean and in order.
 - [Artboard Manager](https://github.com/bomberstudios/artboard-manager#readme), by Ale Muñoz: Because moving artboards manually is *so* 2016.
 - [Segmented Circle](https://github.com/design4use/gb-sketch-segmentcircle), by German Bauer: Create precise segmented circular graphics for diagrams, instrumentation and analytics.
-- [Sketch Wakatime](https://github.com/wakatime/sketch-wakatime), by WakaTime: A Plugin to update your WakaTime stats automatically from Sketch.
-- [Import SVG as Artboards](https://github.com/mathieudutour/import-svg-as-artboard), by mathieudutour: Import SVG files as Artboards.
-- [Symbol Instance Locator](https://github.com/sonburn/symbol-instance-locator), by Jason Burns: Locate all instances of a selected symbol or instance.
