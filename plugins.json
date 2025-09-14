@@ -567,7 +567,7 @@
     "owner": "stark-contrast",
     "author": "Stark Lab, Inc.",
     "homepage": "http://www.getstark.co",
-    "lastUpdated": "2025-07-23 13:59:38 UTC",
+    "lastUpdated": "2025-09-09 16:13:42 UTC",
     "appcast": "https://raw.githubusercontent.com/stark-contrast/stark-sketch-plugin/main/appcast.xml"
   },
   {
@@ -5492,7 +5492,7 @@
     "owner": "brandfolder",
     "appcast": "https://raw.githubusercontent.com/brandfolder/sketch-plugin-brandfolder/master/.appcast.xml",
     "homepage": "https://github.com/brandfolder/sketch-plugin-brandfolder",
-    "lastUpdated": "2025-08-21 16:18:52 UTC"
+    "lastUpdated": "2025-09-11 21:26:59 UTC"
   },
   {
     "title": "Design Token Exporter",
